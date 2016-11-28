@@ -1,0 +1,25 @@
+Price
+TK 4,300
+Detail Specification
+Brand:	Asus
+Model:	HD 5450-SL-2GB
+Chipset:	AMD Radeon HD 5450
+Interface:	PCI Express 2.1
+GPU clock:	650MHz
+Memory:	2GB
+Memory type:	DDR3-L
+Memory bus:	64-bit
+Memory clock:	900MHz
+Resolution max:	2560x1600
+VGA port:	1
+DVI port:	1
+HDMI port:	1
+Power supply req watt:	up to 75Wno additional PCIe power
+Warranty:	2 Year
+Short Description	
+Asus HD 5450-SL-2GB DDR3-L PCI Express Card
+
+Long Description	
+Chipset - AMD Radeon HD 5450, Model - HD 5450-SL-2GB, Interface - PCI Express 2.1, GPU Clock (MHz) - 650MHz, Memory Type - DDR3L, Memory (MB) - 2GB, Memory Bus (bit) - 64-bit, Memory Clock (MHz) - 900MHz, Resolution Max. (Pixel) - 2560 x 1600Pixel, VGA Port - 1, DVI Port - 1, HDMI Port - 1, Power Supply Req. (Watt) - up to 75W no additional PCIe power, Warranty - 2 year
+
+Product ID	14.006.78

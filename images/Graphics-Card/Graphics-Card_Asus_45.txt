@@ -1,0 +1,25 @@
+Price
+TK 4,400
+Detail Specification
+Brand:	Asus
+Model:	Asus HD5450
+Chipset:	AMD Radeon HD 5450
+Interface:	PCI Express 2.1
+GPU clock:	650 MHz
+Memory:	2GB
+Memory type:	DDR3
+Memory bus:	32-bit
+Memory clock:	900 MHz ( 450 MHz DDR3 ),
+Resolution max:	2560x1600
+VGA port:	1
+DVI port:	1
+HDMI port:	1
+Power supply req watt:	75W (No additional PCIe power required),
+Warranty:	2 year
+Short Description	
+Asus HD5450 DDR3 2GB PCI-Express Card
+
+Long Description	
+Chipset - AMD Radeon HD 5450, Model - Asus Radeon HD5450, Interface - PCI Express 2.1, GPU Clock (MHz) - 650 MHz, Memory (MB) - 2GB, Memory Type - DDR3, Memory Bus (bit) - 32-bit, Memory Clock (MHz) - 900 MHz ( 450 MHz DDR3 ), Resolution Max. (Pixel) - 2560x1600, VGA Port - 1, DVI Port - 1, HDMI Port - 1, Power Supply Req. (Watt) - 75W (No additional PCIe power required), Warranty - 2 year
+
+Product ID	14.006.45

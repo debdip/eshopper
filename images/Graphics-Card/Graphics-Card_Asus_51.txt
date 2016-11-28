@@ -1,0 +1,25 @@
+Price
+TK 6,200
+Detail Specification
+Brand:	Asus
+Model:	Asus R7 240
+Chipset:	AMD Radeon R7 240
+Interface:	PCI Express 3.0
+GPU clock:	730 MHz
+Memory:	2GB
+Memory type:	DDR3
+Memory bus:	128 bit
+Memory clock:	900 MHz
+Resolution max:	1920 x 1200
+VGA port:	1
+DVI port:	1
+HDMI port:	1
+Power supply req watt:	75W (No additional PCIe power required)
+Warranty:	2 Year
+Short Description	
+Asus R7 240 2GB DDR3 PCI Express Card
+
+Long Description	
+Chipset - AMD Radeon R7 240, Model - Asus R7 240, Interface - PCI Express 3.0, GPU Clock (MHz) - 730 MHz, Memory (MB) - 2GB, Memory Type - DDR3, Memory Bus (bit) - 128 bit, Memory Clock (MHz) - 900 MHz, Resolution Max. (Pixel) - 1920 x 1200, VGA Port - 1, DVI Port - 1 (DVI-D), HDMI Port - 1, Power Supply Req. (Watt) - 75W (No additional PCIe power required), Warranty - 2 year
+
+Product ID	14.006.51

@@ -1,0 +1,24 @@
+Price
+TK 4,600
+Detail Specification
+Brand:	Asus
+Model:	Asus GT610
+Chipset:	Asus GT610 2GB DDR3 PCI Express Card
+Interface:	PCI Express Card
+GPU clock:	810 Mhz
+Memory:	2048 MB
+Memory type:	DDR3
+Memory bus:	64 Bit
+Memory clock:	1.2 GHz ( 600 MHz DDR3 )
+Resolution max:	2560x1600
+DVI port:	1
+HDMI port:	1
+Power supply req watt:	up to 75Wno additional PCIe power required
+Warranty:	2 Year
+Short Description	
+Asus GT610 2GB DDR3 PCI Express Card
+
+Long Description	
+Chipset - Asus GT610, Model - Asus Geforce GT610, Interface - 64, GPU Clock (MHz) - 810, Memory Type - DDR 3, Memory (MB) - 2GB, Memory Bus (bit) - 64, Memory Clock (MHz) - 1.2 GHz ( 600 MHz DDR3 ), Resolution Max. (Pixel) - D-Sub Max Resolution : 2048x1536,DVI Max Resolution : 2560x1600, DVI Port - 1, HDMI Port - 1, Power Supply Req. (Watt) - up to 75Wno additional PCIe power required, Warranty - 2 year
+
+Product ID	14.006.35
