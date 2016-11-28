@@ -1,0 +1,18 @@
+Price
+TK 750
+Detail Specification
+Brand:	Transcend
+Model:	Transcend 710 16GB
+Interface:	USB3.0
+Capacity:	16GB
+Access time read:	90MB/s
+Access time write:	20MB/s
+OS supported:	Windows 2000, XP, Vista, 7, 8, 8.1, 10, Mac OS 9.0 or later, Linux Kernel 2.4.2 or later
+Warranty:	Product Lifetime
+Short Description	
+Transcend 710 16GB Silver Plating Pen Drive
+
+Long Description	
+Model - Transcend 710, Interface - USB3.0, Capacity (GB) - 16GB, Access Time Read (MBps) - 90MB/s, Access Time Write (MBps) - 20MB/s, OS Supported - Windows 2000, XP, Vista, 7, 8, 8.1, 10, Mac OS 9.0 or later, Linux Kernel 2.4.2 or later, Warranty - Product Lifetime, Specialty - Color: Silver Plating
+
+Product ID	18.047.61

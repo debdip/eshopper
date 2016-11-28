@@ -1,0 +1,19 @@
+Price
+TK 850
+Detail Specification
+Brand:	Transcend
+Model:	Transcend V-350
+Interface:	USB 2.0
+Capacity:	32GB
+Access time read:	15 MBps
+Access time write:	7 MBps
+OS supported:	Windows 7/ Vista/ XP/ Me/ 2000, Mac OS, Linux
+Weight:	8.5gm
+Warranty:	Product Lifetime
+Short Description	
+Transcend V-350 32GB Pen Drive
+
+Long Description	
+Model - Transcend V-350, Interface - USB 2.0, Capacity (GB) - 32GB, Access Time Read (MBps) - 15 MBps, Access Time Write (MBps) - 7 MBps, OS Supported - Windows 7/ Vista/ XP/ Me/ 2000, Mac OS, Linux, Warranty - Product Lifetime
+
+Product ID	18.047.79

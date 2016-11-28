@@ -1,0 +1,18 @@
+Price
+TK 300
+Detail Specification
+Brand:	A Data
+Model:	A Data C008 Blue
+Interface:	USB 2.0
+Capacity:	8GB
+Access time read:	24 Mbps
+Access time write:	10 Mbps
+OS supported:	Windows98/ 2000/XP/ Vista /7 Mac OS 9.0 or later Linux Kernal 2.4 or later
+Warranty:	Product lifetime
+Short Description	
+A Data C008 8GB Blue Pen Drive
+
+Long Description	
+Model - A Data C008, Interface - USB 2.0, Capacity (GB) - 8GB, Access Time Read (MBps) - 24 MBps, Access Time Write (MBps) - 10 MBps, OS Supported - Windows 98/2000/XP/Vista/7 Mac OS 9.0 or later Linux Kernal 2.4 or later, Warranty - Product lifetime
+
+Product ID	18.055.31

@@ -1,0 +1,16 @@
+Price
+TK 700
+Detail Specification
+Brand:	Apacer
+Model:	Apacer AH156
+Interface:	USB 3.0
+Capacity:	16GB
+OS supported:	Windows 98/ME/2000/ XP/Vista, Mac OS X10.3 or later, and Linux
+Warranty:	1 year
+Short Description	
+Apacer AH156 16GB USB 3.0 Pen Drive
+
+Long Description	
+Model - Apacer AH156, Interface - USB 3.0, Capacity (GB) - 16GB, OS Supported - Windows 98/ME/2000/ XP/Vista, Mac OS X10.3 or later, and Linux, Warranty - 1 year
+
+Product ID	18.121.116
