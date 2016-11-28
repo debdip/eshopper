@@ -1,0 +1,32 @@
+Price
+TK 26,000
+Detail Specification
+Brand:	DELL
+Model:	DELL Inspiron 14-3452
+Processor:	Intel PDC N3700
+Clock speed:	1.60GHz
+Cache:	2MB
+Display size:	14"
+Display type:	LED
+RAM:	4GB
+RAM type:	DDR3L
+Storage:	500GB HDD
+Graphics chipset:	Intel HD
+Graphics memory:	Shared
+Optical device:	No
+Display port:	HDMI
+Audio port:	Combo
+USB port:	1 x USB3.0, 2 x USB2.0
+Battery:	4 Cell Li-ion
+Operating system:	Free Dos
+Weight:	1.77Kg
+Others:	LAN, WiFi, Bluetooth, Card Reader, Webcam
+Color:	Black
+Warranty:	2 Year
+Short Description	
+DELL INSPIRON 14-3452 INTEL PDC N3700 (1.60 GHz, 4GB, 500GB, NO ODD ) 14 Inch Black Notebook (2 Yr Warranty)
+
+Long Description	
+Model - DELL Inspiron 14-3452, Processor - Intel PDC N3700, Processor Clock Speed - 1.60GHz, CPU Cache - 2MB, Display Size - 14", Display Type - LED Display, RAM - 4GB, Display Resolution - 1366 x 768, RAM Type - DDR3L, HDD - 500GB HDD, Graphics Chipset - Intel HD, Graphics Memory - Shared, Optical Device - No, Networking - LAN, WiFi, Bluetooth, Card Reader, Webcam, Display Port - HDMI, Audio Port - Combo, USB Port - 1 x USB3.0, 2 x USB2.0, Battery - 4 Cell Li-ion, Operating System - Free Dos, Weight - 1.77Kg, Color - Black, Warranty - 2 year
+
+Product ID	33.013.702
