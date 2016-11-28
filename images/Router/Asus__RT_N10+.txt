@@ -1,0 +1,21 @@
+Price
+TK 1,800
+Detail Specification
+Brand:	Asus
+Model:	RT-N10E
+Network standards:	IEEE802.11b,11n, 11d, 3, 3u, 11i, 11e, IPv4
+Outdoor range:	200 sq Meter
+Data transfer rate:	150 Mbps
+Security protocols:	WEP, WPA, WPA2, TKIP, AES, WPA-PSK, WPA2-PSK
+Firewall protocols:	NAT, SPI
+Interface:	WAN 1 x RJ45 for 10/100 BaseT; LAN 4 x RJ45
+Antena:	1 x External Antenna
+Others:	600-800 sq ft.
+Warranty:	1 Year
+Short Description	
+Asus RT-N10E 150Mbps Wireless Router
+
+Long Description	
+Brand - Asus, Model - RT-N10E, Network Standards - IEEE802.11b,11n, 11d, 3, 3u, 11i, 11e, IPv4, Outdoor Range - 200 sq Meter, Data Transfer Rates - 150 Mbps, Security Protocols - WEP, WPA, WPA2, TKIP, AES, WPA-PSK, WPA2-PSK, Firewall Protoccols - NAT, SPI, Interface - WAN 1 x RJ45 for 10/100 BaseT; LAN 4 x RJ45, Antena - 1 x External Antenna, Others - 600-800 sq ft., Warranty - 1 year
+
+Product ID	29.006.04

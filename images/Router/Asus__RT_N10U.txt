@@ -1,0 +1,21 @@
+Price
+TK 2,600
+Detail Specification
+Brand:	Asus
+Model:	RT-N10U
+Network standards:	IEEE 802.11b, 11g, 11n, 3, 3u, IPv4
+Outdoor range:	200 Sq Meter
+Data transfer rate:	150 Mbps
+Security protocols:	64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise, WPA2-Enterprise, WPS support
+Firewall protocols:	SPI, URL, IP/MAC
+Interface:	1 x WAN, 4 x LAN, 1 x USB2.0,
+Antena:	1 x 5 dBi External antenna
+Others:	600-800 sq feet
+Warranty:	1 Year
+Short Description	
+Asus RT-N10U 3G 150Mbps Wireless Router
+
+Long Description	
+Brand - Asus, Model - RT-N10U, Network Standards - IEEE 802.11b, 11g, 11n, 3, 3u, IPv4, Outdoor Range - 200 Sq Meter, Data Transfer Rates - 150 Mbps, Security Protocols - 64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise, WPA2-Enterprise, WPS support, Firewall Protoccols - SPI, URL, IP/MAC, Interface - 1 x WAN, 4 x LAN, 1 x USB2.0, Antena - 1 x 5 dBi External antenna, Others - 600-800 sq feet, Warranty - 1 year
+
+Product ID	29.006.10
