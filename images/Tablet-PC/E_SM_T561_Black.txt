@@ -1,0 +1,32 @@
+Price
+TK 23,500
+Detail Specification
+Brand:	Samsung
+Model:	Samsung Galaxy Tab E SM-T561
+Processor type:	Quad-Core
+Processor speed:	1.30 GHz
+RAM:	1.5 GB
+Display size:	9.6 Inch
+Screen resolution:	1280x800xxxx Pixel
+Display type:	TFT
+Touch screen:	Yes
+Available connections:	USB 2.0, Wi-Fi, Bluetooth v4.0, GPS, Glonass
+Storage:	8 GB
+Additional ports:	3.5mm Stereo
+SD card slot:	MicroSD (Up to 128GB)
+Front camera:	2.0xxxx Megapixel
+Rear camera:	5.0xxxx Megapixel
+Support player:	MP4, M4V, 3GP, 3G2, MKV, WEBM, MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Operating system:	Android
+Dimensions:	241.9 x 149.5 x 8.5mm
+Weight:	495 gm
+Battery:	5000 mAh
+Backup time:	7.30 Hrs
+Warranty	1 year
+Short Description	
+Samsung Galaxy Tab E SM-T561 9.6 inch
+
+Long Description	
+Model - Samsung Galaxy Tab E SM-T561, Processor Type - Quad-Core, RAM - 1.5GB, Processor Speed - 1.30GHz, Internal Memory - 8GB, Display Type - TFT Display, Display Size - 9.6", Screen Resolution - 1280 x 800 (WXGA), Connectivity - USB 2.0, Wi-Fi, Bluetooth v4.0, GPS, Glonass, Additional Ports - 3.5mm Stereo, Card Slot - MicroSD (Up to 128GB), GSM/3G Calling - 2G GSM, 3G WCDMA, Sim Card Slot - Single Micro-SIM (3FF), Front Camera - 2.0MP, Rear Camera - 5.0MP, Support Player - MP4, M4V, 3GP, 3G2, MKV, WEBM, MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, Operating System - Android, Dimensions - 241.9 x 149.5 x 8.5mm, Weight - 495gm, Battery - Non-removable Li-Ion 5000 mAh, Backup Hours - Up to 7.30 Hrs., Color - Metallic Black, Pearl White, Warranty - 1 year
+
+Product ID	101.039.47

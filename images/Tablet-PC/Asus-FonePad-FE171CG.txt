@@ -1,0 +1,30 @@
+Price
+TK 13,900
+Detail Specification
+Brand:	Asus
+Model:	Asus FonePad FE171CG
+Processor type:	Intel Clover Trail Dual Core Z2520
+Processor speed:	1.20 GHz
+RAM:	1 GB
+Display size:	7 Inch
+Screen resolution:	1024x600x Pixel
+Display type:	Capacitive Multi-Touch Display
+Touch screen:	Yes
+Available connections:	LAN, WiFi
+Storage:	8 GB
+Additional ports:	USB
+SD card slot:	SD Card UP to 64GB
+Front camera:	2.0x Megapixel
+Rear camera:	5.0x Megapixel
+Operating system:	Android 4.4(kitkat)
+Weight:	280 gm
+Battery:	3910 mAh
+Backup time:	11 Hrs
+Warranty	1 year
+Short Description	
+Asus FonePad FE171CG Intel Clover Trail Dual Core Z2520 (1.20GHz,1GB, 8GB) Android 4.4, 7 Inch White Tablet
+
+Long Description	
+Model - Asus FonePad FE171CG, Processor Type - Intel Clover Trail Dual Core Z2520, RAM - 1GB, Processor Speed - 1.20GHz, Internal Memory - 8GB, Display Type - Capacitive Multi-Touch Display, Display Size - 7", Screen Resolution - 1024 x 600Pixels, Connectivity - LAN, Wi-Fi, Additional Ports - USB, Card Slot - SD Card UP to 64GB, GSM/3G Calling - Yes, Sim Card Slot - Dual SIM, Front Camera - 2 Mega Pixels, Rear Camera - 5 Mega Pixels, Operating System - Android 4.4(kitkat), Weight - 280gm, Battery - Li Polymer 3910 mAh, Backup Hours - Up to 11 Hrs., Color - White, Others - IPS Panel Display, Warranty - 1 Year Warranty
+
+Product ID	101.006.20

@@ -1,0 +1,28 @@
+Price
+TK 54,500
+Detail Specification
+Brand:	Apple
+Model:	Apple iPAD Mini-3 (MGYN2ZP/A)
+Processor type:	Apple A7
+Processor speed:	1.30 GHz
+RAM:	1 GB
+Display size:	7.9 Inch
+Screen resolution:	2048x1536 Pixel
+Display type:	LED-backlit Multi-Touch display
+Touch screen:	Yes
+Available connections:	Wi-Fi, Bluetooth 4.0
+Storage:	64 GB
+Front camera:	1.2 Megapixel
+Rear camera:	5.0 Megapixel
+Support player:	AAC, Protected AAC, HE-AAC, MP3, MP3 VBR, Audible, Apple Lossless, AIFF and WAV
+Operating system:	iOS 8
+Dimensions:	7.87" x 5.3" x 0.29"
+Weight:	331 gm
+Backup time:	Up to 10 Hrs
+Short Description	
+Apple iPAD Mini-3 (MGYN2ZP/A) Cellular Wi-Fi 64GB Gold 7.9 Inch Tablet
+
+Long Description	
+Model - Apple iPAD Mini-3 (MGYN2ZP/A), Processor Type - Apple A7, RAM - 1GB, Processor Speed - 1.30GHz, Internal Memory - 64GB, Display Type - LED-backlit Multi-Touch display, Display Size - 7.9", Screen Resolution - 2048 x 1536Pixel, Connectivity - Wi-Fi, Bluetooth v4.0, Sim Card Slot - Nano SIM, Front Camera - 1.2 Mega Pixels, Rear Camera - 5 Mega Pixels, Support Player - AAC, Protected AAC, HE-AAC, MP3, MP3 VBR, Audible, Apple Lossless, AIFF and WAV, Operating System - iOS 8, Dimensions - 7.87" x 5.3" x 0.29", Weight - 331gm, Battery - lithium-Polymer Battery, Backup Hours - Up to 10 Hrs., Color - Gold, On Box - Lightning to USB Cable, USB Power Adapter, Others - Chip: A7 chip with 64-bit architecture, Video Recording: 1080p HD video, Touch ID: Fingerprint identity sensor built into the Home button, Part No - MGYN2ZP/A, Warranty - No
+
+Product ID	101.005.25
