@@ -1,0 +1,25 @@
+Price
+TK 3,100
+Detail Specification
+Brand:	AMD
+Model:	Sempron 2650
+Clock speed:	1.45 GHz
+Core:	Dual
+L2 cache:	1 MB
+L3 cache:	MB
+Smart cache:	6MB
+Bus ratio:	1333 MHz
+Sockets supported:	AM1
+Memory type:	DDR3-1333
+Memory max:	16 GB
+Memory chanel:	2
+Lithography:	28 nm
+Integ graphics:	AMD Radeon HD 8240
+Warranty:	3 Year
+Short Description	
+AMD Sempron 2650 1.45 GHz Processor
+
+Long Description	
+Model - AMD Sempron 2650, Clock Speed (GHz) - 1.45GHz, Core - Dual-core (2 Core), Thread - 2, L2 Cache (MB) - 1MB, Sockets Supported - Socket AM1, Memory Type - DDR3-1333, Memory Max. (GB) - 16GB, Memory Chanel - 2, Lithography (nm) - 28nm, Integ. Graphics - AMD Radeon HD 8240, Warranty - 3 year
+
+Product ID	01.004.34

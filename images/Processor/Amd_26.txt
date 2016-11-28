@@ -1,0 +1,19 @@
+Price
+TK 4,500
+Detail Specification
+Brand:	AMD
+Model:	AMD APU A4 5300
+Clock speed:	3.4 GHz
+Core:	2
+Thread:	2
+L2 cache:	1000 MB
+Sockets supported:	FM2
+Integ graphics:	N/A
+Warranty:	1 year
+Short Description	
+AMD APU A4 5300 4TH Gen. Processor
+
+Long Description	
+Model - AMD APU A4 5300 4TH Gen. Processor, L2 Cache (MB) - 1000, Sockets Supported - FM2, Lithography (nm) - 32, Warranty (Year) - 3, Others - Direct X Version:11
+
+Product ID	01.004.26

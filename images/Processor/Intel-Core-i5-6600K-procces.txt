@@ -1,0 +1,19 @@
+Price
+TK 20,200
+Detail Specification
+Brand:	Intel
+Model:	Skylake i5-6600K
+Clock speed:	3.50 GHz
+Core:	Quad
+Smart cache:	6MB
+Sockets supported:	LGA1151
+Lithography:	14nm
+Integ graphics:	Intel HD 530
+Warranty:	3 Year
+Short Description	
+Intel Skylake Core i5 6600K 3.50GHz 6 MB Cache LGA1151 6th Gen. Processor
+
+Long Description	
+Model - Intel Skylake Core i5 6600K, Clock Speed (GHz) - 3.50GHz, Core - 4, Thread - 4, Smart Cache (MB) - 6MB, Sockets Supported - LGA1151, Lithography (nm) - 14nm, Integ. Graphics - Intel HD 530, Others - Memory Types: DDR4-1866/2133, DDR3L-1333/1600 1.35V, Specialty - Skylake, Warranty - 3 year
+
+Product ID	01.024.114
