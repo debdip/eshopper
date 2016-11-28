@@ -1,0 +1,33 @@
+Price
+TK 46,200
+Detail Specification
+Brand:	HP
+Model:	HP Pavilion 15-AB032TU
+Processor:	5th Gen. Intel Core i5 5200U
+Clock speed:	2.20GHz
+Cache:	3MB
+Display size:	15.6"
+Display type:	LED Display
+RAM:	4GB
+RAM type:	DDR3L
+Storage:	1TB HDD
+Graphics chipset:	Intel HD 5500
+Graphics memory:	Shared
+Optical device:	DVD RW
+Display port:	HDMI
+Audio port:	Combo
+USB port:	1 x USB2.0, 2 X USB3.0
+Battery:	4 Cell Li-Ion
+Backup time:	Up to 3.5 hrs
+Operating system:	Free Dos
+Weight:	2.29Kg
+Others:	LAN, WiFi, Bluetooth, Card Reader, HD Webcam
+Color:	Blue
+Warranty:	1 Year
+Short Description	
+HP Pavilion 15-AB032TU Core i5 5th Gen. 5200U (2.20GHz,4GB,1TB) 15.6 Inch Blue Notebook
+
+Long Description	
+Model - HP Pavilion 15-AB032TU, Processor - 5th Gen. Intel Core i5 5200U, Processor Clock Speed - 2.20Ghz, CPU Cache - 3MB, Display Size - 15.6", Display Type - LED Display, RAM - 4GB, RAM Type - DDR3L, HDD - 1TB HDD, Graphics Chipset - Intel HD 5500, Graphics Memory - Shared, Optical Device - DVD RW, Networking - LAN, WiFi, Bluetooth, Card Reader, HD Webcam, Display Port - HDMI, Audio Port - Combo, USB Port - 1 x USB2.0, 2 X USB3.0, Battery - 4 Cell Li-Ion, Backup Time - Up to 3.5 Hrs., Operating System - Free Dos, Weight - 2.29Kg, Color - blue, Others - Screen Resolution : 1366 x 768, Maximum RMA - 25 days, Part No - M4X71PA, Warranty - 1 year
+
+Product ID	33.020.599

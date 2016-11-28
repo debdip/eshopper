@@ -1,0 +1,33 @@
+Price
+TK 46,500
+Detail Specification
+Brand:	HP
+Model:	HP Pavilion 14-AB108TX
+Processor:	6th Gen. Intel Core i5 6200U
+Clock speed:	2.30-2.80GHz
+Cache:	3MB
+Display size:	14.1"
+Display type:	LED
+RAM:	4GB
+RAM type:	DDR3L
+Storage:	1TB HDD
+Graphics chipset:	NVIDIA GeForce 940M
+Graphics memory:	2GB
+Optical device:	DVD RW
+Display port:	HDMI
+Audio port:	Combo
+USB port:	2 x USB3.0, 1 x USB2.0
+Battery:	4 cell Li-ion
+Backup time:	Up to 4.5 Hrs.
+Operating system:	Free Dos
+Weight:	1.96Kg
+Others:	LAN, WiFi, Bluetooth, Card Reader, Webcam
+Color:	Red
+Warranty:	1 Year
+Short Description	
+HP Pavilion 14-AB108TX Core i5 6th Gen. 6200U (2.30-2.80GHz,4GB,1TB) 2GB Graphics 14.1 Inch Red Notebook
+
+Long Description	
+Model - HP Pavilion 14-AB108TX, Processor - 6th Gen. Intel Core i5 6200U, Processor Clock Speed - 2.30-2.80GHz, CPU Cache - 3MB, Display Size - 14.1", Display Type - LED Display, RAM - 4GB, RAM Type - DDR3L, HDD - 1TB HDD, Graphics Chipset - NVIDIA GeForce 940M, Graphics Memory - 2GB, Optical Device - DVD RW, Networking - LAN, WiFi, Bluetooth, Card Reader, Webcam, Display Port - HDMI, Audio Port - Combo, USB Port - 2 x USB3.0, 1 x USB2.0, Battery - 4 cell Li-ion, Backup Time - Up to 4.5 Hrs., Operating System - Free Dos, Weight - 1.96Kg, Color - RED, Part No - P3D20PA, Warranty - 1 year
+
+Product ID	33.020.652
