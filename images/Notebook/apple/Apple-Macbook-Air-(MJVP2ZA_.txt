@@ -1,0 +1,33 @@
+Price
+TK 99,500
+Detail Specification
+Brand:	Apple
+Model:	Apple Macbook Air (MJVP2ZA/A)
+Processor:	5th Gen. Intel Core i5
+Clock speed:	1.60GHz
+Cache:	3MB
+Display size:	11.6"
+Display type:	LED
+RAM:	4 GB
+RAM type:	LPDDR3
+Storage:	256 GB SSD
+Graphics chipset:	Intel HD 5000
+Graphics memory:	Shared
+Optical device:	No
+Display port:	DVI, HDMI, VGA
+Audio port:	Combo
+USB port:	2 x USB 3.0
+Battery:	lithium-polymer
+Backup time:	Up to 9 hrs
+Operating system:	OS X Yosemite
+Weight:	1.80Kg
+Others:	LAN, WiFi, Bluetooth, Card Reader, HD Webcam
+Color:	Silver
+Warranty:	1 Year
+Short Description	
+Apple Macbook Air i5 5th Gen. (1.6GHz,4GB,256GB SSD) 11.6 Inch Display MacBook
+
+Long Description	
+Model - Apple Macbook Air (MJVP2ZA/A), Processor - 5th Gen. Intel Core i5, Processor Clock Speed - 1.60GHz, CPU Cache - 3MB, Display Size - 11.6", Display Type - LED Display, RAM - 4GB, RAM Type - LPDDR3, HDD - 256GB SSD, Graphics Chipset - Intel HD 5000, Graphics Memory - Shared, Optical Device - No, Networking - WiFi, Bluetooth, Card Reader, HD Webcam, Display Port - HDMI, VGA, DVI, Audio Port - Combo, USB Port - 2 x USB3.0, Battery - Lithium-Polymer, Backup Time - Up to 9 Hrs., Operating System - OS X Yosemite, Weight - 1.80Kg, Color - Silver, Others - Backlit glossy widescreen, Dimension(HxWxD) : 0.11-0.68" x 11.8" x 7.56", Others port: Thunderbolt 2 port, MagSafe 2 power port, Part No - MJVP2ZA/A, Warranty - 1 year
+
+Product ID	33.005.71
