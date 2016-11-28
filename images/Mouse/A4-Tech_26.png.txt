@@ -1,0 +1,18 @@
+Price
+TK 300
+Detail Specification
+Brand:	A4 Tech
+Model:	A4 Tech OP-720
+Type:	Optical
+Interface ps/2:	No
+Interface USB:	Yes
+Connectivity:	Wired
+2X Click:	Yes
+Wheel:	Yes
+Short Description	
+A4 Tech OP-720 Optical USB Mouse
+
+Long Description	
+Model - A4 Tech OP-720, Type - Optical, Connectivity - Wired, 2X Click - Yes, Wheel - Yes, Warranty - No
+
+Product ID	06.056.26

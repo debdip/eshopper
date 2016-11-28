@@ -1,0 +1,17 @@
+Price
+TK 400
+Detail Specification
+Brand:	A4 Tech
+Model:	A4 Tech N-301
+Type:	Optical
+Interface ps/2:	No
+Interface USB:	Yes
+Connectivity:	Wired
+2X Click:	Yes
+Short Description	
+A4 Tech N-301 Optical Mouse
+
+Long Description	
+Model - A4 Tech N-301, Type - Optical Mouse, Connectivity - Wired, 2X Click - YES, Warranty - No
+
+Product ID	06.056.45

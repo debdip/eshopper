@@ -1,0 +1,17 @@
+Price
+TK 350
+Detail Specification
+Brand:	A Take
+Model:	A Take ACM-3005A
+Type:	Optical
+Interface ps/2:	Yes
+Interface USB:	Yes
+Connectivity:	Wired
+Warranty:	No
+Short Description	
+A Take ACM-3005A USB Optical Mouse
+
+Long Description	
+Model - A Take ACM-3005A, Type - Optical, Interface (USB) - Yes, Warranty (Year) - No
+
+Product ID	06.446.01
